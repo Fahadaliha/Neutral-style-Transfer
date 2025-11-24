@@ -1,6 +1,6 @@
 Neural Style Transfer
 
-A deep learning project that blends the content of one image with the artistic style of another image using a Convolutional Neural Network.
+A deep learning project that blends the content of one image with the artistic style of another image using a Convolutional Neural Network
 
 Company: CodTech IT Solutions
 Name: Mohammed Fahad Ali
